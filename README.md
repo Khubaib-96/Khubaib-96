@@ -262,36 +262,9 @@ Built a mobile application that made geospatial datasets accessible to the publi
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-> This is a new primary profile. Earlier academic and personal repository history is available at **[@Khubaib2002](https://github.com/Khubaib2002)**.
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khubaib-96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khubaib-96&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khubaib-96&theme=tokyo-night&hide_border=true" />
-
-<br/>
-
-<sub>Some professional work is maintained in private organizational repositories.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&animation=fadeIn" />
 
 ### Building reliable AI systems that retrieve the right evidence before they reason.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&animation=fadeIn" />
 
 </div>
