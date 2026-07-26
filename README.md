@@ -134,6 +134,7 @@ Built a multi-task NLP pipeline for political promise verification.
 The system modelled promise-evidence relationships across promise detection, evidence identification, clarity assessment, and verification-timing classification.
 
 **Achievement:** 2nd Place
+**Published at ACL SemEVal 2025**
 
 **Stack:**
 `Python` `LLMs` `Transformers` `Multi-Task Learning` `NLP`
@@ -149,6 +150,8 @@ The system modelled promise-evidence relationships across promise detection, evi
 Developed entity-centric NLP models for multilingual narrative understanding in news articles.
 
 The work included span-level multi-label role classification, hierarchical narrative classification, and evidence-grounded explanation generation.
+
+**Published at ACL SemEVal 2025**
 
 **Stack:**
 `Python` `Transformers` `Multilingual NLP` `Classification` `LLMs`
