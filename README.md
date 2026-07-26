@@ -134,6 +134,7 @@ Built a multi-task NLP pipeline for political promise verification.
 The system modelled promise-evidence relationships across promise detection, evidence identification, clarity assessment, and verification-timing classification.
 
 **Achievement:** 2nd Place
+
 **Published at ACL SemEVal 2025**
 
 **Stack:**
