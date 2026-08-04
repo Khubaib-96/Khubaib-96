@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Muhammad%20Khubaib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Engineer%20%7C%20LLM%20Systems%20%C2%B7%20Hybrid%20RAG%20%C2%B7%20Agentic%20Search&descAlignY=56&descSize=16&descColor=c7d2fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0360f1&height=200&section=header&text=Muhammad%20Khubaib&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20Engineer%20%7C%20LLM%20Systems%20%C2%B7%20Hybrid%20RAG%20%C2%B7%20Agentic%20Search&descAlignY=56&descSize=16&descColor=c7d2fe" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Khubaib-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khubaib-mukaddam-4998ba220/)
 [![Email](https://img.shields.io/badge/Email-khubaib.22mukaddam%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khubaib.22mukaddam@gmail.com)
 [![Previous GitHub](https://img.shields.io/badge/Previous_GitHub-Khubaib2002-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Khubaib2002)
-[![Location](https://img.shields.io/badge/Karachi-Pakistan-16a34a?style=for-the-badge\&logo=googlemaps\&logoColor=white)](#)
 
 <br/>
 
@@ -269,6 +268,6 @@ Built a mobile application that made geospatial datasets accessible to the publi
 
 ### Building reliable AI systems that retrieve the right evidence before they reason.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0360f1&height=100&section=footer&animation=fadeIn" />
 
 </div>
