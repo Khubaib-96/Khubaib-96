@@ -34,9 +34,10 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 
 ---
 
-## Working Projects:
+## 💻 Working Projects:
 
-AI AGENT LENS: https://ai-agent-lens.vercel.app/
+# AI AGENT LENS: https://ai-agent-lens.vercel.app/
+
 
 
 ---
