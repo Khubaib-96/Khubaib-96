@@ -34,6 +34,13 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 
 ---
 
+## Working Projects:
+
+AI AGENT LENS: https://ai-agent-lens.vercel.app/
+
+
+---
+
 ## 🚀 Production AI Systems
 
 > 🔒 The production systems below were developed at QLU.ai and are maintained in private repositories.
