@@ -33,82 +33,10 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 > Earlier university, research, and personal repositories remain available on **[@Khubaib2002](https://github.com/Khubaib2002)**.
 
 ---
-
-## 🚀 Production AI Systems
-
-> 🔒 The production systems below were developed at QLU.ai and are maintained in private repositories.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Enterprise Intelligence & RAG
-
-Built an LLM-powered enterprise assistant that retrieves evidence from emails, meetings, calendars, call transcripts, contacts, and organizational data.
-
-The system supports tool-driven call preparation, transcript-aware answers, interaction summaries, recent activity retrieval, and grounded organization-level insights.
-
-**Stack:**
-`Python` `FastAPI` `Qdrant` `Elasticsearch` `Whoosh` `PostgreSQL` `ClickHouse`
-
-🔒 *Private — QLU.ai*
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 People & Company Search
-
-Architected a low-latency, multi-stage search pipeline that converts natural-language requests into structured filters and semantic search intent.
-
-The system performs concurrent company generation, progressive profile retrieval over SSE, relevance scoring, company gating, result pruning, and multi-turn intent handling.
-
-**Stack:**
-`Python` `FastAPI` `PostgreSQL` `Vector Search` `SSE` `LLM APIs`
-
-🔒 *Private — QLU.ai*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ✉️ Conversational Outreach Platform
-
-Helped transform a traditional outreach workflow into an AI-based conversational system for creating personalized, multi-channel outreach sequences.
-
-Users can provide a sample message and generate personalized outreach for **30+ recipients**, with sequences of up to **10 rounds** across LinkedIn, Gmail, and Outlook.
-
-Improved prompting and profile-level context handling to reduce personalization errors by approximately **15%**, supported by repeated validation across **20+ prompt scenarios**.
-
-**Stack:**
-`Python` `LLMs` `Prompt Engineering` `Structured Data` `API Integrations`
-
-🔒 *Private — QLU.ai*
-
-</td>
-<td width="50%" valign="top">
-
-### 🗂️ Multi-Source Document Intelligence
-
-Developed ingestion and enrichment pipelines for emails, calendar events, meeting transcripts, LinkedIn conversations, PDFs, and other interaction data.
-
-The pipelines handle transcription, entity extraction, exclusion rules, organization updates, semantic indexing, structured summaries, and retrieval-ready context generation.
-
-**Stack:**
-`Python` `Qdrant` `PostgreSQL` `ClickHouse` `Elasticsearch` `AsyncIO`
-
-🔒 *Private — QLU.ai*
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💻 Some Working Projects:
 
 ### AI AGENT LENS: https://ai-agent-lens.vercel.app/
+### Company Report Intelligence: https://financial-rag-gilt.vercel.app/
 
 .
 .
@@ -124,10 +52,6 @@ The pipelines handle transcription, entity extraction, exclusion rules, organiza
 
 ### 🌦️ [Hyper-Localised Weather Forecasting](https://ieeexplore.ieee.org/document/11539765)
 
-Developed end-to-end spatio-temporal forecasting pipelines using LSTM, SARIMA-X, Transformers, and Kriging-based spatial interpolation.
-
-The system combined feature engineering, geospatial processing, model tuning, and real-time weather advisory generation.
-
 **Published at IEEE ICMI 2026**
 
 **Stack:**
@@ -137,10 +61,6 @@ The system combined feature engineering, geospatial processing, model tuning, an
 <td width="50%" valign="top">
 
 ### 🤝 [Oath Breakers — SemEval 2025 Task 6](https://aclanthology.org/2025.semeval-1.225/)
-
-Built a multi-task NLP pipeline for political promise verification.
-
-The system modelled promise-evidence relationships across promise detection, evidence identification, clarity assessment, and verification-timing classification.
 
 **Achievement:** 2nd Place
 
@@ -157,28 +77,10 @@ The system modelled promise-evidence relationships across promise detection, evi
 
 ### 📰 [NarrativeMiners — SemEval 2025 Task 10](https://aclanthology.org/2025.semeval-1.215/)
 
-Developed entity-centric NLP models for multilingual narrative understanding in news articles.
-
-The work included span-level multi-label role classification, hierarchical narrative classification, and evidence-grounded explanation generation.
-
 **Published at ACL SemEVal 2025**
 
 **Stack:**
 `Python` `Transformers` `Multilingual NLP` `Classification` `LLMs`
-
-</td>
-<td width="50%" valign="top">
-
-### 📏 Length-Controlled Summarization
-
-Proposed an auxiliary bucket-prediction objective for improving fine-grained length control in abstractive summarization.
-
-The method improved model adherence to requested output lengths while maintaining controlled trade-offs in ROUGE performance.
-
-**Accepted at ICNLP 2026**
-
-**Stack:**
-`BART` `PyTorch` `Transformers` `Abstractive Summarization`
 
 </td>
 </tr>
@@ -187,8 +89,6 @@ The method improved model adherence to requested output lengths while maintainin
 <td width="50%" valign="top">
 
 ### ✅ [CLEF CheckThat! Subjectivity Checker](https://www.semanticscholar.org/paper/Checker-Hacker-at-CheckThat!-2024%3A-Detecting-Claims-Zehra-Chandani/9aaf0b8b49327fe9f372bee2d88faf0b23a1e26e)
-
-Fine-tuned transformer-based models for subjectivity and check-worthiness detection in news text.
 
 **Achievement:** 4th Place — CLEF CheckThat! Lab Task 2
 
@@ -199,10 +99,6 @@ Fine-tuned transformer-based models for subjectivity and check-worthiness detect
 <td width="50%" valign="top">
 
 ### 🗺️ [Koh-e-Atlas](https://darlab-pakistan.github.io/koh-e-atlas/)
-
-Contributed to Karachi's first open-source urban atlas, covering literacy, water channels, Parsi heritage, and public bus transit.
-
-Built a mobile application that made geospatial datasets accessible to the public.
 
 **Stack:**
 `Flutter` `QGIS` `Firebase` `Geospatial Data`
