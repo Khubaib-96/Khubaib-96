@@ -100,7 +100,7 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 ### Additional Projects
 
 * **Urdu NLP Miners:** Summarization and sentiment analysis using mT5, Gemma, and XLM-R, achieving up to **0.93 F1**
-* **Deep Reinforcement Learning:** Compared Vanilla DQN, Double DQN, and parameter-space noise under dense and sparse rewards
+* **Deep RL:** Compared Vanilla DQN, Double DQN, and parameter-space noise under dense and sparse rewards
 * **Selenium Mobile Crawler:** Automated mobile-oriented web data collection
 * **Khidmat:** Database management system designed for an NGO
 * **Ray Tracer:** Rendering engine using Bounding Volume Hierarchy trees
