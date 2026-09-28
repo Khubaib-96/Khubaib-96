@@ -96,14 +96,6 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 `Python` `Transformers` `Text Classification` `NLP`
 
 </td>
-<td width="50%" valign="top">
-
-### 🗺️ [Koh-e-Atlas](https://darlab-pakistan.github.io/koh-e-atlas/)
-
-**Stack:**
-`Flutter` `QGIS` `Firebase` `Geospatial Data`
-
-</td>
 </tr>
 </table>
 
