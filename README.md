@@ -83,9 +83,6 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 `Python` `Transformers` `Multilingual NLP` `Classification` `LLMs`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### ✅ [CLEF CheckThat! Subjectivity Checker](https://www.semanticscholar.org/paper/Checker-Hacker-at-CheckThat!-2024%3A-Detecting-Claims-Zehra-Chandani/9aaf0b8b49327fe9f372bee2d88faf0b23a1e26e)
@@ -97,6 +94,7 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 
 </td>
 </tr>
+
 </table>
 
 ### Additional Projects
