@@ -126,7 +126,6 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 ### Backend, Cloud & Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
