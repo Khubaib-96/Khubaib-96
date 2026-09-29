@@ -26,7 +26,7 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 * 🤖 Developing **context-aware AI agents** with tool calling, multi-step reasoning, and conversational search
 * 🗂️ Engineering ingestion pipelines for **emails, calendars, meetings, transcripts, LinkedIn threads, and PDFs**
 * ⚡ Designing low-latency AI services using **FastAPI, asynchronous processing, caching, fallbacks, and SSE**
-* 📄 Conducting applied AI and NLP research through **SemEval, CLEF, IEEE, and ICNLP**
+* 📄 Conducting applied AI and NLP research through **ACL SemEval, CLEF, IEEE, and ICNLP**
 * 🎓 Computer Science graduate from **Habib University**, with a **3.82/4.00 CGPA**
 
 > **GitHub note:** This is my primary professional GitHub profile going forward.
@@ -98,15 +98,6 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 
 </table>
 
-### Additional Projects
-
-* **Urdu NLP Miners:** Summarization and sentiment analysis using mT5, Gemma, and XLM-R, achieving up to **0.93 F1**
-* **Deep RL:** Compared Vanilla DQN, Double DQN, and parameter-space noise under dense and sparse rewards
-* **Selenium Mobile Crawler:** Automated mobile-oriented web data collection
-* **Khidmat:** Database management system designed for an NGO
-* **Ray Tracer:** Rendering engine using Bounding Volume Hierarchy trees
-* **RISC-V Processor:** Five-stage pipelined processor implementation
-
 ---
 
 ## 🛠️ Tech Stack
@@ -160,10 +151,7 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 | 2023 | 🥇 1st Place — Design for Climate Resilience Hackathon        |
 | 2023 | 💻 Ranked among the Top 50 nationwide — ICPC                  |
 
----
 
-
-### Building reliable AI systems that retrieve the right evidence before they reason.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0360f1&height=100&section=footer&animation=fadeIn" />
 
