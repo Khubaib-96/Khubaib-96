@@ -35,9 +35,9 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 ---
 ## 💻 Some Working Projects:
 
-### PORTFOLIO: https://portfolio-six-phi-cdg5gu9gbf.vercel.app/
-### AI AGENT LENS: https://ai-agent-lens.vercel.app/
-### Company Report Intelligence: https://financial-rag-gilt.vercel.app/
+### Portfolio: https://portfolio-six-phi-cdg5gu9gbf.vercel.app/
+### AI Agent Lens: https://ai-agent-lens.vercel.app/
+### Company Intelligence: https://financial-rag-gilt.vercel.app/
 
 .
 .
