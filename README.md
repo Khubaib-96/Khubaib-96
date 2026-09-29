@@ -26,7 +26,7 @@ My work focuses on connecting LLMs with structured data, retrieval systems, real
 * 🤖 Developing **context-aware AI agents** with tool calling, multi-step reasoning, and conversational search
 * 🗂️ Engineering ingestion pipelines for **emails, calendars, meetings, transcripts, LinkedIn threads, and PDFs**
 * ⚡ Designing low-latency AI services using **FastAPI, asynchronous processing, caching, fallbacks, and SSE**
-* 📄 Conducting applied AI and NLP research through **ACL SemEval, CLEF, IEEE, and ICNLP**
+* 📄 Conducting applied AI and NLP research through **ACL SemEval, CLEF, and IEEE**
 * 🎓 Computer Science graduate from **Habib University**, with a **3.82/4.00 CGPA**
 
 > **GitHub note:** This is my primary professional GitHub profile going forward.
